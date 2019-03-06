@@ -10,7 +10,7 @@ public class ReplaceLettersTest {
     ReplaceLetters obj;
     @Before
     public void setUp() throws Exception {
-        ReplaceLetters obj = new ReplaceLetters();
+         obj = new ReplaceLetters();
     }
 
     @After

@@ -7,9 +7,5 @@ public class ReplaceLetters {
         str = str.replace("i","t");
         return str;
     }
-    public static void main(String args[]){
-        Scanner sc = new Scanner(System.in);
-        String str = sc.nextLine();
-        replaceLtr(str);
-    }
+    
 }
